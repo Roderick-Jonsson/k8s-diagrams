@@ -25,7 +25,7 @@
 
 | Progress                              | Milestone |                                                              |
 | ------------------------------------- | --------- | ------------------------------------------------------------ |
-| ![in progress](in-progress-png) | M1        | Initiation                                                   |
+| <img src="in-progress.png"> | M1        | Initiation                                                   |
 |                                       | M2        | Prioritize concepts                                          |
 |                                       | M3        | Discuss possible representations for concepts & post sketches |
 |                                       | M4        | Establish basic visual guidelines                            |
