@@ -23,9 +23,13 @@
 
 <h2>Milestone Plan</h2>
 
-| M1                  | M2                                                           | M3                                | M4                                                   |
-| ------------------- | ------------------------------------------------------------ | --------------------------------- | ---------------------------------------------------- |
-| Prioritize concepts | Discuss possible representations for concepts & post sketches | Establish basic visual guidelines | Design visually consistent vector (i.e. SVG) symbols |
+| Progress                              | Milestone |                                                              |
+| ------------------------------------- | --------- | ------------------------------------------------------------ |
+| <b style="color:blue">IN PROGRESS</b> | M1        | Initiation                                                   |
+|                                       | M2        | Prioritize concepts                                          |
+|                                       | M3        | Discuss possible representations for concepts & post sketches |
+|                                       | M4        | Establish basic visual guidelines                            |
+|                                       | M5        | Design visually consistent vector (i.e. SVG) symbols         |
 
 <h2>Get involved</h2>
 
