@@ -12,28 +12,22 @@
   <br>
   Create a visual language composed of symbols and icons will enable the creation of illustrative diagrams.
   <br>
+  <br>
+  <b>Status</b>
+  <br>
+  Initiation
 </p>
 
 <br>
 
 
-- Team Emblem
-- Vision
-  - Make Kubernetes concepts easy to undestand
+<h2>Milestone Plan</h2>
 
-- Mission
-  - Create a visual language composed of symbols and icons will enable the creation of illustrative diagrams.
+| M1                  | M2                                                           | M3                                | M4                                                   |
+| ------------------- | ------------------------------------------------------------ | --------------------------------- | ---------------------------------------------------- |
+| Prioritize concepts | Discuss possible representations for concepts & post sketches | Establish basic visual guidelines | Design visually consistent vector (i.e. SVG) symbols |
 
-- Milestone Plan
-  - Prioritize concepts
-  - Discuss possible representations for concepts & post sketches
-  - Establish basic visual guidelines
-  - Design visually consistent vector (i.e. SVG) symbols
+<h2>Get involved</h2>
 
-- Current Status
-  - Initiation Phase
 
-- Get involved
-- Dedicated Contributors
-  - Daniel Romlein
-  - Roderick Jonsson
+<h2>Dedicated Contributors</h2>
