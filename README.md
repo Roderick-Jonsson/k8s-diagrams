@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="project-logo.png" alt="" width=72 height=72>
+    <img src="project-logo.png" alt="" width=200 height=200>
 
   <h1 align="center">Kubernetes Graphing Group</h1>
 
@@ -10,12 +10,12 @@
   <br><br>
   <b>Mission</b>
   <br>
-  Create a visual language composed of symbols and icons will enable the creation of illustrative diagrams.
+  Create a visual language for concept diagrams
   <br>
   <br>
   <b>Status</b>
   <br>
-  Initiation
+  M1 Initiation
 </p>
 
 <br>
