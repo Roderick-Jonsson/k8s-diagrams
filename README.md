@@ -31,6 +31,7 @@
 |                                       | M4        | Establish basic visual guidelines                            |
 |                                       | M5        | Design visually consistent vector (i.e. SVG) symbols         |
 
+[Go to project board](https://github.com/Roderick-Jonsson/k8s-diagrams/projects)
 <h2>Get involved</h2>
 
 
