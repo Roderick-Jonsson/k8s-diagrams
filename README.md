@@ -1,7 +1,7 @@
 <p align="center">
     <img src="project-logo.png" alt="" width=72 height=72>
 
-  <h1 align="center">Kubernetes Diagrams Working Group</h1>
+  <h1 align="center">Kubernetes Graphing Group</h1>
 
   <p align="center">
   <b>Vision</b>
