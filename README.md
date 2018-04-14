@@ -1,25 +1,16 @@
 <p align="center">
     <img src="project-logo.png" alt="" width=200 height=200>
+</p>
 
   <h1 align="center">Kubernetes Graphing Group</h1>
 
   <p align="center">
   <h3 align="center">Vision</h3>
-  <br>
   <p align="center">Make Kubernetes concepts easy to undestand.</p>
-  <br><br>
   <h3 align="center">Mission</h3>
-  <br>
   <p align="center">Create a visual language for concept diagrams</p>
-  <br>
-  <br>
-  <b>Status</b>
-  <br>
-  M1 Initiation
-</p>
-
-<br>
-
+  <h3 align="center">Status</h3>
+  <p align="center">M1 Initiation</p>
 
 <h2>Milestone Plan</h2>
 
