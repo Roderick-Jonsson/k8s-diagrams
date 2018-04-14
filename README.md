@@ -25,7 +25,7 @@
 
 | Progress                              | Milestone |                                                              |
 | ------------------------------------- | --------- | ------------------------------------------------------------ |
-| <b style="color:blue">IN PROGRESS</b> | M1        | Initiation                                                   |
+| <span style="color:blue">IN PROGRESS</span> | M1        | Initiation                                                   |
 |                                       | M2        | Prioritize concepts                                          |
 |                                       | M3        | Discuss possible representations for concepts & post sketches |
 |                                       | M4        | Establish basic visual guidelines                            |
