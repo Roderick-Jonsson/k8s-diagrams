@@ -4,13 +4,13 @@
   <h1 align="center">Kubernetes Graphing Group</h1>
 
   <p align="center">
-  <b>Vision</b>
+  <h3>Vision</h3>
   <br>
-  Make Kubernetes concepts easy to undestand
+  Make Kubernetes concepts easy to undestand.
   <br><br>
-  <b>Mission</b>
+  <h3>Mission</h3>
   <br>
-  Create a visual language for concept diagrams
+  Create a visual language for concept diagrams.
   <br>
   <br>
   <b>Status</b>
