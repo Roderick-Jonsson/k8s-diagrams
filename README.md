@@ -21,17 +21,16 @@
   </p>
 </p>
 
-<h2>Milestone Plan</h2>
+<h2>Progress</h2>
 
 | Progress                              | Milestone |                                                              |
 | ------------------------------------- | --------- | ------------------------------------------------------------ |
-| <img src="in-progress.png" width=72> | M1        | Initiation                                                   |
+| <img src="in-progress.png" width=72>  | M1        | Initiation                                                   |
 |                                       | M2        | Prioritize concepts                                          |
 |                                       | M3        | Discuss possible representations for concepts & post sketches |
 |                                       | M4        | Establish basic visual guidelines                            |
 |                                       | M5        | Design visually consistent vector (i.e. SVG) symbols         |
 
-[Go to project board](https://github.com/Roderick-Jonsson/k8s-diagrams/projects/1)
 <h2>Get involved</h2>
 
 
