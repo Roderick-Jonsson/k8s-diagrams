@@ -34,3 +34,5 @@
 <h2>Dedicated Contributors</h2>
 
 <h2>Get involved</h2>
+1. Sign up by adding your name and key value to our [prospects file](https://github.com/Roderick-Jonsson/k8s-diagrams/blob/master/workspace/prospects.md)
+2. Check for interesting tasks by looking at the [milestone](https://github.com/Roderick-Jonsson/k8s-diagrams/milestones?direction=asc&sort=title&state=open), [Task Overview](https://github.com/Roderick-Jonsson/k8s-diagrams/projects/1) and [issue list](https://github.com/Roderick-Jonsson/k8s-diagrams/issues) and contact the issue assignee with your collaboration request
