@@ -43,7 +43,7 @@
 
 2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
 
-**Understand how we work with Github**
+**Understand how to manage tasks on GitHub**
 - [Youtube: Professional Guides: Managing Projects (5min)][YT github pm short]
 - [Youtube: Webcast GitHub for Project Management (59min)][YT github pm long]
 
