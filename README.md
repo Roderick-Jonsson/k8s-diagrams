@@ -39,9 +39,11 @@
 <h2>Get involved</h2>
 
 **Need Help**
+
 - [Help with finding prospects](https://github.com/Roderick-Jonsson/k8s-diagrams/issues/1)
 
 **Find a contribution opportunity**
+
 Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
 
 [prospects file]: https://github.com/Roderick-Jonsson/k8s-diagrams/blob/master/workspace/prospects.md
