@@ -18,7 +18,6 @@
     <a href="https://github.com/Roderick-Jonsson/k8s-diagrams/projects/1">Task Overview</a>
     ·
     <a href="#">Get Involved</a>
-    ·
   </p>
 </p>
 
