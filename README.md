@@ -38,15 +38,13 @@
 
 <h2>Get involved</h2>
 
-**Need Help**
-
-- [Help with finding prospects](https://github.com/Roderick-Jonsson/k8s-diagrams/issues/1)
-
 **Find a contribution opportunity**
+1. Check if a issue is [actively recruiting participants][issue recruiting] by looking for issues with the recruting tag
 
-Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
+2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
 
 [prospects file]: https://github.com/Roderick-Jonsson/k8s-diagrams/blob/master/workspace/prospects.md
 [milestone]: https://github.com/Roderick-Jonsson/k8s-diagrams/milestones?direction=asc&sort=title&state=open
 [task overview]: https://github.com/Roderick-Jonsson/k8s-diagrams/projects/1
 [issue list]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues
+[issue recruiting]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues?q=is%3Aissue+is%3Aopen+label%3Arecruiting
