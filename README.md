@@ -31,7 +31,6 @@
 |                                       | M4        | Establish basic visual guidelines                            |
 |                                       | M5        | Design visually consistent vector (i.e. SVG) symbols         |
 
-<h2>Get involved</h2>
-
-
 <h2>Dedicated Contributors</h2>
+
+<h2>Get involved</h2>
