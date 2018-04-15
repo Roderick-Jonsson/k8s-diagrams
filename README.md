@@ -34,7 +34,8 @@
 <h2>Dedicated Contributors</h2>
 
 <h2>Get involved</h2>
-Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
+
+1. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
 
 [prospects file]: https://github.com/Roderick-Jonsson/k8s-diagrams/blob/master/workspace/prospects.md
 [milestone]: https://github.com/Roderick-Jonsson/k8s-diagrams/milestones?direction=asc&sort=title&state=open
