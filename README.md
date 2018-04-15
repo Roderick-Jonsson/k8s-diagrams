@@ -33,6 +33,8 @@
 
 <h2>Dedicated Contributors</h2>
 
+- Roderick Jonsson
+
 <h2>Get involved</h2>
 
 1. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
