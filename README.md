@@ -34,6 +34,7 @@
 <h2>Dedicated Contributors</h2>
 
 - Roderick Jonsson
+- Daniel Romlein
 
 <h2>Get involved</h2>
 
