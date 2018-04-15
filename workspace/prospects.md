@@ -3,6 +3,10 @@
 1. Create a list of people who would be interested on working on this project
 2. Track progress on recruitment
 
+| Name             | Comment                                    | Contact         | Recruit |
+| ---------------- | ------------------------------------------ | --------------- | ------- |
+| Prospect Name    | Key Value                                  | Handling Contact| Yes/No/Open     |
+
 ---
 # Technical
 
@@ -26,4 +30,4 @@
 
 | Name             | Comment                                    | Contact         | Recruit |
 | ---------------- | ------------------------------------------ | --------------- | ------- |
-| Collin Mangum    | [Product Marketing Manager at Lucidchart is interested](https://github.com/kubernetes/website/issues/747#issuecomment-380245146)   | roderickjonsson |         |
+| Collin Mangum    | [Product Marketing Manager at Lucidchart, spread adoption of diagram standard](https://github.com/kubernetes/website/issues/747#issuecomment-380245146)   | roderickjonsson | Open  |
