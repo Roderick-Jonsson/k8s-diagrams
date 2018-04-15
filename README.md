@@ -12,6 +12,15 @@
   <h3 align="center">Status</h3>
   <p align="center">M1 Initiation</p>
 
+  <p align="center">
+    <a href="https://github.com/Roderick-Jonsson/k8s-diagrams/milestones?direction=asc&sort=title&state=open">Milestone Overview</a>
+    ·
+    <a href="https://github.com/Roderick-Jonsson/k8s-diagrams/projects/1">Task Overview</a>
+    <a href="#">Get Involved</a>
+    ·
+  </p>
+</p>
+
 <h2>Milestone Plan</h2>
 
 | Progress                              | Milestone |                                                              |
