@@ -18,7 +18,7 @@
 
 | Name             | Comment                                    | Contact         | Recruit |
 | ---------------- | ------------------------------------------ | --------------- | ------- |
-| Daniel Romlein |  UX Designer at google and K8S UI Head, knows how to design| roderickjonsson | Yes |
+| Daniel Romlein |  UX Designer at google and K8S UI SIG Head, knows how to design| roderickjonsson | Yes |
 
 # Organisational
 
