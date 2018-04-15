@@ -43,8 +43,14 @@
 
 2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
 
+**Understand how we work with Github**
+- [Youtube: Professional Guides: Managing Projects (5min)][YT github pm short]
+- [Youtube: Webcast GitHub for Project Management (59min)][YT github pm long]
+
 [prospects file]: https://github.com/Roderick-Jonsson/k8s-diagrams/blob/master/workspace/prospects.md
 [milestone]: https://github.com/Roderick-Jonsson/k8s-diagrams/milestones?direction=asc&sort=title&state=open
 [task overview]: https://github.com/Roderick-Jonsson/k8s-diagrams/projects/1
 [issue list]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues
 [issue recruiting]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues?q=is%3Aissue+is%3Aopen+label%3Arecruiting
+[YT github pm short]: https://www.youtube.com/watch?v=nI5VdsVl0FM
+[YT github pm long]: https://www.youtube.com/watch?v=6fByt0o4UYs&t=3160s
