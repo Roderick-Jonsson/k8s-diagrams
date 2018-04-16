@@ -25,7 +25,7 @@
 
 | Progress                              | Milestone |                                                              |
 | ------------------------------------- | --------- | ------------------------------------------------------------ |
-| <img src="in-progress.png" width=72>  | M1        | Initiation                                                   |
+| <img src="in-progress.png" width=72>  | M1        | [Initiation](https://github.com/Roderick-Jonsson/k8s-diagrams/milestone/1)                                                   |
 |                                       | M2        | Prioritize concepts                                          |
 |                                       | M3        | Discuss possible representations for concepts & post sketches |
 |                                       | M4        | Establish basic visual guidelines                            |
@@ -59,9 +59,9 @@ All work is guided by our vision statement.
 4. [Communication center][communication center]
   - Collaboration tool to chat and exchange information where needed
 
-**C: Very useful guides for doing generall project management on GitHub**
+**C: How to organise work with GitHub**
 
-If you have never looked in depth to using milestones, projects, wiki, tags and other features from Github to organise tasks this two guides will get you up an running in no time :)
+Get up and running in no time with these 2 Youtube guides from the GuitHub team :)
 - [Youtube: Professional Guides: Managing Projects (5min)][YT github pm short]
 - [Youtube: Webcast GitHub for Project Management (59min)][YT github pm long]
 
