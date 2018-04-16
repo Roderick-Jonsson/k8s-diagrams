@@ -41,20 +41,25 @@
 **Find a contribution opportunity**
 1. Check if a issue is [actively recruiting participants][issue recruiting] by looking for issues with the recruting tag
 
-2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
+2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request on workbench
 
-**How we use Github**
+**How we organise our work on Github**
+All work is guided by our vision statement.
+
 1. [Milestone Planning][milestone]
-- Key points to reach our vision and accomplish our mission
+- Key points to accomplish our mission
 2. [Task Creation][task overview]
 - Single actionable tasks which have to be done to reach a milestone
-3. [Task status report][issue list]
+3. [Task status report][milestone issues]
 - Status report on single task
-- Try to hold the chatter down to make issue clearly documented
-4. Workbench
+- Assignees are responsible for task completion (dedicated contributors)
+- First post should help project members, contributors and prospectives to understand what the task is about and always be up to date by assignees
+- For general communication and coordination use the workbench
+4. [Workbench][workbench]
 - Collaboration tool to chat and exchange information where needed
 
-**Understand how to manage tasks on GitHub**
+**Very useful guides for doing generall project management on GitHub**
+If you have never looked in depth to using milestones, projects, wiki, tags and other features from Github to organise tasks this two guides will get you up an running in no time :)
 - [Youtube: Professional Guides: Managing Projects (5min)][YT github pm short]
 - [Youtube: Webcast GitHub for Project Management (59min)][YT github pm long]
 
@@ -65,3 +70,5 @@
 [issue recruiting]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues?q=is%3Aissue+is%3Aopen+label%3Arecruiting
 [YT github pm short]: https://www.youtube.com/watch?v=nI5VdsVl0FM
 [YT github pm long]: https://www.youtube.com/watch?v=6fByt0o4UYs&t=3160s
+[milestone issues]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues?utf8=✓&q=is%3Aissue+is%3Aopen+milestone%3A*+
+[workbench]: https://slack.com
