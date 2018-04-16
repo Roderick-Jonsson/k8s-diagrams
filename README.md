@@ -39,23 +39,29 @@
 <h2>Get involved</h2>
 
 **A: Find a contribution opportunity**
-1. Check if a issue is [actively recruiting participants][issue recruiting] by looking for issues with the recruting tag
+1. Check if there are [issues with the recruiting tag][issue recruiting]
 
-2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request in the [communication center][communication center]
+2. Check for interesting tasks by browsing
+    - [milestone][milestone]
+    - [task overview][task overview]
+    - [issue list][issue list]
+    contact assignee via the [communication center][communication center]
 
 **B: How we organise our work on Github**
 
-All work is guided by our vision statement.
+The project is guided by our vision statement.
+All work is geared towards completing the mission statement.
+
+General communication is done in our [Communication center][communication center] to not unnecessary clutter the project documentation ;)
 
 1. [Milestones][milestone]
     - Key points to accomplish our mission
 2. [Tasks][task overview]
     - Single actionable tasks which have to be done to reach a milestone
-3. [Task status report][milestone issues]
-    - Status report on single task
+3. [Single Task][milestone issues]
     - Assignees are responsible for task completion (dedicated contributors)
-    - First post should help project members, contributors and prospectives to understand what the task is about and always be up to date by assignees
-    - For general communication and coordination use the communication center
+    - Initial comment is a wiki aggregating the overall important information of the task
+    - Continuing comments are used as a news stream to represent status of task
 4. [Communication center][communication center]
     - Collaboration tool to chat and exchange information where needed
 
