@@ -38,12 +38,12 @@
 
 <h2>Get involved</h2>
 
-**Find a contribution opportunity**
+**A: Find a contribution opportunity**
 1. Check if a issue is [actively recruiting participants][issue recruiting] by looking for issues with the recruting tag
 
 2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request on [workbench][workbench]
 
-**How we organise our work on Github**
+**B: How we organise our work on Github**
 
 All work is guided by our vision statement.
 
@@ -59,7 +59,7 @@ All work is guided by our vision statement.
 4. [Workbench][workbench]
   - Collaboration tool to chat and exchange information where needed
 
-**Very useful guides for doing generall project management on GitHub**
+**C: Very useful guides for doing generall project management on GitHub**
 
 If you have never looked in depth to using milestones, projects, wiki, tags and other features from Github to organise tasks this two guides will get you up an running in no time :)
 - [Youtube: Professional Guides: Managing Projects (5min)][YT github pm short]
