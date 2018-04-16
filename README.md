@@ -44,19 +44,20 @@
 2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request on workbench
 
 **How we organise our work on Github**
+
 All work is guided by our vision statement.
 
 1. [Milestone Planning][milestone]
-- Key points to accomplish our mission
+  - Key points to accomplish our mission
 2. [Task Creation][task overview]
-- Single actionable tasks which have to be done to reach a milestone
+  - Single actionable tasks which have to be done to reach a milestone
 3. [Task status report][milestone issues]
-- Status report on single task
-- Assignees are responsible for task completion (dedicated contributors)
-- First post should help project members, contributors and prospectives to understand what the task is about and always be up to date by assignees
-- For general communication and coordination use the workbench
+  - Status report on single task
+  - Assignees are responsible for task completion (dedicated contributors)
+  - First post should help project members, contributors and prospectives to understand what the task is about and always be up to date by assignees
+  - For general communication and coordination use the workbench
 4. [Workbench][workbench]
-- Collaboration tool to chat and exchange information where needed
+  - Collaboration tool to chat and exchange information where needed
 
 **Very useful guides for doing generall project management on GitHub**
 If you have never looked in depth to using milestones, projects, wiki, tags and other features from Github to organise tasks this two guides will get you up an running in no time :)
