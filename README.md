@@ -56,7 +56,7 @@ All work is guided by our vision statement.
   - Assignees are responsible for task completion (dedicated contributors)
   - First post should help project members, contributors and prospectives to understand what the task is about and always be up to date by assignees
   - For general communication and coordination use the workbench
-4. [Workbench][workbench]
+4. [Communication center][workbench]
   - Collaboration tool to chat and exchange information where needed
 
 **C: Very useful guides for doing generall project management on GitHub**
@@ -73,4 +73,4 @@ If you have never looked in depth to using milestones, projects, wiki, tags and 
 [YT github pm short]: https://www.youtube.com/watch?v=nI5VdsVl0FM
 [YT github pm long]: https://www.youtube.com/watch?v=6fByt0o4UYs&t=3160s
 [milestone issues]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues?utf8=✓&q=is%3Aissue+is%3Aopen+milestone%3A*+
-[workbench]: https://slack.com
+[workbench]: https://kubernetes.slack.com
