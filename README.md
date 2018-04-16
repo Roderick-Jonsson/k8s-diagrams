@@ -60,6 +60,7 @@ All work is guided by our vision statement.
   - Collaboration tool to chat and exchange information where needed
 
 **Very useful guides for doing generall project management on GitHub**
+
 If you have never looked in depth to using milestones, projects, wiki, tags and other features from Github to organise tasks this two guides will get you up an running in no time :)
 - [Youtube: Professional Guides: Managing Projects (5min)][YT github pm short]
 - [Youtube: Webcast GitHub for Project Management (59min)][YT github pm long]
