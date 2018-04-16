@@ -33,8 +33,7 @@
 
 <h2>Dedicated Contributors</h2>
 
-- Roderick Jonsson
-- Daniel Romlein
+- [Roderick Jonsson][rj]
 
 <h2>Get involved</h2>
 
@@ -81,3 +80,4 @@ Get up and running in no time with these 2 Youtube guides from the GuitHub team 
 [YT github pm long]: https://www.youtube.com/watch?v=6fByt0o4UYs&t=3160s
 [milestone issues]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues?utf8=✓&q=is%3Aissue+is%3Aopen+milestone%3A*+
 [communication center]: https://kubernetes.slack.com
+[rj]: https://github.com/Roderick-Jonsson
