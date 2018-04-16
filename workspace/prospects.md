@@ -23,13 +23,14 @@
 
 | Name             | Comment                                    | Contact         | Recruit |
 | ---------------- | ------------------------------------------ | --------------- | ------- |
-|                  |                                            |                 |         |
+| [Roderick Jonsson][rj] | Created diagram blog posts at powerodit.ch | roderickjonsson | dedicated contributor     |
+| [Daniel Romlein][dr] |  UX Designer at google and K8S UI SIG Head, knows how to design| roderickjonsson | prospect |
 
 # Other
 
 | Name             | Comment                                    | Contact         | Recruit |
 | ---------------- | ------------------------------------------ | --------------- | ------- |
-| [Collin Mangum][cm]    | [Product Marketing Manager at Lucidchart, spread adoption of diagram standard](https://github.com/kubernetes/website/issues/747#issuecomment-380245146)   | roderickjonsson | Open  |
+| [Collin Mangum][cm]    | [Product Marketing Manager at Lucidchart, spread adoption of diagram standard](https://github.com/kubernetes/website/issues/747#issuecomment-380245146)   | roderickjonsson | prospect  |
 
 
 [rj]: https://github.com/Roderick-Jonsson
