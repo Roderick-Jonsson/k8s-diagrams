@@ -50,6 +50,7 @@
 **B: How we organise our work on Github**
 
 The project is guided by our vision statement.
+
 All work is geared towards completing the mission statement.
 
 General communication is done in our [Communication center][communication center] to not unnecessary clutter the project documentation ;)
