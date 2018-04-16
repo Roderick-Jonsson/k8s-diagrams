@@ -41,7 +41,7 @@
 **Find a contribution opportunity**
 1. Check if a issue is [actively recruiting participants][issue recruiting] by looking for issues with the recruting tag
 
-2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request on workbench
+2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request on [workbench][workbench]
 
 **How we organise our work on Github**
 
