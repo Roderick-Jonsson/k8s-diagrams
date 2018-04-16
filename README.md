@@ -47,9 +47,9 @@
 
 All work is guided by our vision statement.
 
-1. [Milestone Planning][milestone]
+1. [Milestones][milestone]
   - Key points to accomplish our mission
-2. [Task Creation][task overview]
+2. [Tasks][task overview]
   - Single actionable tasks which have to be done to reach a milestone
 3. [Task status report][milestone issues]
   - Status report on single task
