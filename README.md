@@ -48,16 +48,16 @@
 All work is guided by our vision statement.
 
 1. [Milestones][milestone]
-  - Key points to accomplish our mission
+    - Key points to accomplish our mission
 2. [Tasks][task overview]
-  - Single actionable tasks which have to be done to reach a milestone
+    - Single actionable tasks which have to be done to reach a milestone
 3. [Task status report][milestone issues]
-  - Status report on single task
-  - Assignees are responsible for task completion (dedicated contributors)
-  - First post should help project members, contributors and prospectives to understand what the task is about and always be up to date by assignees
-  - For general communication and coordination use the communication center
+    - Status report on single task
+    - Assignees are responsible for task completion (dedicated contributors)
+    - First post should help project members, contributors and prospectives to understand what the task is about and always be up to date by assignees
+    - For general communication and coordination use the communication center
 4. [Communication center][communication center]
-  - Collaboration tool to chat and exchange information where needed
+    - Collaboration tool to chat and exchange information where needed
 
 **C: How to organise work with GitHub**
 
