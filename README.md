@@ -41,7 +41,7 @@
 **A: Find a contribution opportunity**
 1. Check if a issue is [actively recruiting participants][issue recruiting] by looking for issues with the recruting tag
 
-2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request on [workbench][workbench]
+2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request in the [communication center][communication center]
 
 **B: How we organise our work on Github**
 
@@ -55,8 +55,8 @@ All work is guided by our vision statement.
   - Status report on single task
   - Assignees are responsible for task completion (dedicated contributors)
   - First post should help project members, contributors and prospectives to understand what the task is about and always be up to date by assignees
-  - For general communication and coordination use the workbench
-4. [Communication center][workbench]
+  - For general communication and coordination use the communication center
+4. [Communication center][communication center]
   - Collaboration tool to chat and exchange information where needed
 
 **C: Very useful guides for doing generall project management on GitHub**
@@ -73,4 +73,4 @@ If you have never looked in depth to using milestones, projects, wiki, tags and 
 [YT github pm short]: https://www.youtube.com/watch?v=nI5VdsVl0FM
 [YT github pm long]: https://www.youtube.com/watch?v=6fByt0o4UYs&t=3160s
 [milestone issues]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues?utf8=✓&q=is%3Aissue+is%3Aopen+milestone%3A*+
-[workbench]: https://kubernetes.slack.com
+[communication center]: https://kubernetes.slack.com
