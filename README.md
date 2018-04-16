@@ -43,6 +43,17 @@
 
 2. Check for interesting tasks by looking at the [milestone][milestone] , [task overview][task overview] and [issue list][issue list] and contact the issue assignee with your collaboration request
 
+**How we use Github**
+1. [Milestone Planning][milestone]
+- Key points to reach our vision and accomplish our mission
+2. [Task Creation][task overview]
+- Single actionable tasks which have to be done to reach a milestone
+3. [Task status report][issue list]
+- Status report on single task
+- Try to hold the chatter down to make issue clearly documented
+4. Workbench
+- Collaboration tool to chat and exchange information where needed
+
 **Understand how to manage tasks on GitHub**
 - [Youtube: Professional Guides: Managing Projects (5min)][YT github pm short]
 - [Youtube: Webcast GitHub for Project Management (59min)][YT github pm long]
