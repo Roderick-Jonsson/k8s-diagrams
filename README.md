@@ -34,6 +34,7 @@
 <h2>Dedicated Contributors</h2>
 
 - [Roderick Jonsson][rj]
+- [Rachael Graham][rg]
 
 <h2>Get involved</h2>
 
@@ -81,3 +82,4 @@ Get up and running in no time with these 2 Youtube guides from the GuitHub team 
 [milestone issues]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues?utf8=✓&q=is%3Aissue+is%3Aopen+milestone%3A*+
 [communication center]: https://kubernetes.slack.com
 [rj]: https://github.com/Roderick-Jonsson
+[rg]: https://github.com/Rachael-Graham
