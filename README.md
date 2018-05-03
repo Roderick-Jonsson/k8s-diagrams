@@ -3,10 +3,10 @@
 </p>
 
   <h1 align="center">Kubernetes Graphing Group</h1>
-
+  <p align="center">The Kubernetes Graphing Group formed out of a desire to make the Kubernetes documentation more easily accessible. We aim to establish conistency by developing graphical guidelines, to visualize concepts by constructing architecture diagrams, and to incorporate these diagrams and images into the open source documentation.</p>
   <p align="center">
   <h3 align="center">Vision</h3>
-  <p align="center">Expand the Kubernetes body of knowledge and facilitate the learning experience by making concepts easier to understand.</p>
+  <p align="center">Facilitate the Kubernetes learning experience by making concepts easier to understand in the Kubernetes body of knowledge.</p>
   <h3 align="center">Mission</h3>
   <p align="center">Make a high value and high exposure contribution to the Kuberenetes open source documentation set by creating a visual language for concept diagrams.</p>
   <h3 align="center">Status</h3>
@@ -31,19 +31,17 @@
 |                                       | M4        | Establish basic visual guidelines                            |
 |                                       | M5        | Design visually consistent vector (i.e. SVG) symbols         |
 
-<h2>Prospective Contributors</h2>
+<h2>Prospective contributors</h2>
 
 - [Roderick Jonsson][rj]
 - [Rachael Graham][rg]
 
 <h2>Get involved</h2>
 
-The Kubernetes Graphing Group formed out of a desire to make the Kubernetes documentation more easily accessible. We aim to establish conistency by developing graphical guidelines, to visualize concepts by constructing architecture diagrams, and to incorporate these diagrams and images into the open source documentation.
-
 We are looking for like-minded individuals to contribute to this effort! If you have: 
 * Technical knowledge of Kubernetes
 * Experience with making diagrams or similar visual elements
-* Creativity to brainstorm diagram schematics and it’s pro’s and con’s
+* Creativity to brainstorm and evaluate the usefulness of diagram schematics
 
 then join us by finding a contribution opportunity.
 
