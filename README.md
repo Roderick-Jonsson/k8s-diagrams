@@ -6,9 +6,9 @@
 
   <p align="center">
   <h3 align="center">Vision</h3>
-  <p align="center">Make Kubernetes concepts easy to undestand.</p>
+  <p align="center">Expand the Kubernetes body of knowledge and facilitate the learning experience by making concepts easier to understand.</p>
   <h3 align="center">Mission</h3>
-  <p align="center">Create a visual language for concept diagrams</p>
+  <p align="center">Make a high value and high exposure contribution to the Kuberenetes open source documentation set by creating a visual language for concept diagrams.</p>
   <h3 align="center">Status</h3>
   <p align="center">M1 Initiation</p>
 
@@ -38,16 +38,25 @@
 
 <h2>Get involved</h2>
 
-**A: Find a contribution opportunity**
+The Kubernetes Graphing Group formed out of a desire to make the Kubernetes documentation more easily accessible. We aim to establish conistency by developing graphical guidelines, to visualize concepts by constructing architecture diagrams, and to incorporate these diagrams and images into the open source documentation.
+
+We are looking for like-minded individuals to contribute to this effort! If you have: 
+* Technical knowledge of Kubernetes
+* Experience with making diagrams or similar visual elements
+* Creativity to brainstorm diagram schematics and it’s pro’s and con’s
+
+then join us by finding a contribution opportunity.
+
+**A: How do I find a contribution opportunity?**
 1. Check if there are [issues with the recruiting tag][issue recruiting]
 
 2. Check for interesting tasks by browsing
     - [milestone][milestone]
     - [task overview][task overview]
     - [issue list][issue list]
-    contact assignee via the [communication center][communication center]
+    - contact assignee via the [communication center][communication center]
 
-**B: How we organise our work on Github**
+**B: How is project work organized?**
 
 The project is guided by our vision statement.
 
@@ -66,7 +75,7 @@ General communication is done in our [Communication center][communication center
 4. [Communication center][communication center]
     - Collaboration tool to chat and exchange information where needed
 
-**C: How to organise work with GitHub**
+**C: How can I learn about working in GitHub?**
 
 Get up and running in no time with these 2 Youtube guides from the GuitHub team :)
 - [Youtube: Professional Guides: Managing Projects (5min)][YT github pm short]
