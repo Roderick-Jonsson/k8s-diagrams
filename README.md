@@ -35,6 +35,7 @@
 
 - [Roderick Jonsson][rj]
 - [Rachael Graham][rg]
+- [Rinor Maloku][rm] 
 
 <h2>Get involved</h2>
 
@@ -90,3 +91,4 @@ Get up and running in no time with these 2 Youtube guides from the GuitHub team 
 [communication center]: https://kubernetes.slack.com
 [rj]: https://github.com/Roderick-Jonsson
 [rg]: https://github.com/Rachael-Graham
+[rm]: https://github.com/rinormaloku
