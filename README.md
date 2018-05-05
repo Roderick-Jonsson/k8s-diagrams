@@ -88,7 +88,7 @@ Get up and running in no time with these 2 Youtube guides from the GuitHub team 
 [YT github pm short]: https://www.youtube.com/watch?v=nI5VdsVl0FM
 [YT github pm long]: https://www.youtube.com/watch?v=6fByt0o4UYs&t=3160s
 [milestone issues]: https://github.com/Roderick-Jonsson/k8s-diagrams/issues?utf8=✓&q=is%3Aissue+is%3Aopen+milestone%3A*+
-[communication center]: https://kubernetes.slack.com
+[communication center]: https://k8s-graphing-group.slack.com
 [rj]: https://github.com/Roderick-Jonsson
 [rg]: https://github.com/Rachael-Graham
 [rm]: https://github.com/rinormaloku
