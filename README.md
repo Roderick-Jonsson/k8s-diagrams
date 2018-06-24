@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="project-logo.png" alt="" width=200 height=200>
+    <img src="./images/project-logo.png" alt="" width=200 height=200>
 </p>
 
   <h1 align="center">Kubernetes Graphing Group</h1>
@@ -26,7 +26,7 @@
 | Progress                              | Milestone |                                                              |
 | ------------------------------------- | --------- | ------------------------------------------------------------ |
 |     | M1        | [Initiation](https://github.com/Roderick-Jonsson/k8s-diagrams/milestone/1)                                                   |
-|   <img src="in-progress.png" width=72>                                    | M2        | Prioritize concepts                                          |
+|   <img src="./images/in-progress.png" width=72>                                    | M2        | Prioritize concepts                                          |
 |                                       | M3        | Discuss possible representations for concepts & post sketches |
 |                                       | M4        | Establish basic visual guidelines                            |
 |                                       | M5        | Design visually consistent vector (i.e. SVG) symbols         |
